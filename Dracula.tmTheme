@@ -861,6 +861,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Variable Constant</string>
+			<key>scope</key>
+			<string>variable.other.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66d9ef</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Variable Language</string>
 			<key>scope</key>
 			<string>variable.language</string>
