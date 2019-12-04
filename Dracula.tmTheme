@@ -32,13 +32,13 @@
 				<key>lineHighlight</key>
 				<string>#44475a</string>
 				<key>selection</key>
-				<string>#44475a</string>
+				<string>#44c7ff</string>
 				<key>findHighlight</key>
 				<string>#effb7b</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
-				<string>#222218</string>
+				<string>#44c7ff</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 				<key>bracketsForeground</key>
